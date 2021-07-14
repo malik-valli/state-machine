@@ -24,3 +24,5 @@ If it does not load : https://imgur.com/wqBlOnO.gif
 ![](https://imgur.com/wqBlOnO.gif)
 ## Jumping State
 ![](https://imgur.com/Kh7hy3W.gif)
+
+### You can download the executable file for Windows and mac OS on Google Drive : https://drive.google.com/drive/folders/1SeXhCWUuEuxtbXgpWASTtmRJJq43Y3HZ?usp=sharing
