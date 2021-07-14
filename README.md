@@ -2,7 +2,7 @@
 
 A small project that has a **first person state machine**.
 
-**You are a state machine! It's crazy!**
+## You are a state machine! It's crazy!
 
 ![state-machine-graph](https://user-images.githubusercontent.com/81878781/125632848-7f73cdb1-8c39-4bba-9ae9-c38c45a672e8.png)
 
