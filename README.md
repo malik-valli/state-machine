@@ -12,8 +12,6 @@ The most important thing in this project is the **code**. Without it, the projec
 
 ![all-the-magic-is-in-the-code](https://user-images.githubusercontent.com/81878781/125635521-2e601d0f-69f6-4bc3-8e11-f0f2e57bbd7d.png)
 
-
-
 ## Idle State
 ![](https://imgur.com/xuQiTQc.gif)
 ## Walking State
