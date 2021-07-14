@@ -4,7 +4,7 @@ A small project that has a **first person state machine**.
 
 ## You are a state machine! It's crazy!
 
-![state-machine-graph](https://user-images.githubusercontent.com/81878781/125632848-7f73cdb1-8c39-4bba-9ae9-c38c45a672e8.png)
+![state-machine-graph](https://user-images.githubusercontent.com/81878781/125636348-070d60fb-bda4-4c9b-b008-3a031ac773aa.png)
 
 The most important thing in this project is the **code**. Without it, the project may look simple, but this is not true! 
 
