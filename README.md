@@ -2,7 +2,7 @@
 
 A small project that has a **first person state machine**.
 
-### You can download the executable file for Windows and macOS on Google Drive : https://drive.google.com/drive/folders/1SeXhCWUuEuxtbXgpWASTtmRJJq43Y3HZ?usp=sharing
+You can download the executable file for Windows and macOS on Google Drive : https://drive.google.com/drive/folders/1SeXhCWUuEuxtbXgpWASTtmRJJq43Y3HZ?usp=sharing
 
 ## You are a state machine! It's crazy!
 
